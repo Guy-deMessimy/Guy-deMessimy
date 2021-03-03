@@ -20,7 +20,7 @@ Figma
 
 ## ✉️ Find me on:
 
-
+![](https://visitor-badge.laobi.icu/badge?page_id=Guy-deMessimy.Guy-deMessimy)
 
 
 ## 🧰 Languages and Tools:
