@@ -17,13 +17,13 @@ Insomnia JSON Netlify Heroku
 vscode
 
 Figma  
+![](https://visitor-badge.laobi.icu/badge?page_id=Guy-deMessimy.Guy-deMessimy)
+[![Github](https://img.shields.io/github/followers/Guy-deMessimy?label=Follow&style=social)](https://github.com/Guy-deMessimy)
+
+
 
 ## ✉️ Find me on:
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Guy-deMessimy.Guy-deMessimy)
-[![Github](https://img.shields.io/github/followers/Guy-deMessimy?label=Follow&style=social)](https://github.com/Guy-deMessimy)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guy-deMessimy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -40,4 +40,15 @@ Figma
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+## :trophy: My Github Stats:
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Guy-deMessimy&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Guy-deMessimy&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Guy-deMessimy&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guy-deMessimy&theme=tokyonight" />
+</a>
+</div>
 
