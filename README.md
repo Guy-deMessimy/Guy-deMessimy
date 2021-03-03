@@ -1,21 +1,17 @@
 Guy de Messimy : french web Developer
 
-About Me
+## : about me:
 
 I worked 15 years as product manager and HR officer. In 2020 I have decided to start my retraining as a web developper.
 I took a course at WildcodeSchool during 5 months on JS, React and NodeJs technologies, before joining UTOCAT Lille 
 as an inter on React technologies.  
 
 
-
-
-
-
- Github Gitlab  Office 365  
- Windows NPM Yarn  
-Insomnia JSON Netlify Heroku  
-vscode
-
+Gitlab  
+NPM Yarn  
+Insomnia 
+JSON Netlify 
+Heroku  
 Figma  
 ![](https://visitor-badge.laobi.icu/badge?page_id=Guy-deMessimy.Guy-deMessimy)
 [![Github](https://img.shields.io/github/followers/Guy-deMessimy?label=Follow&style=social)](https://github.com/Guy-deMessimy)
