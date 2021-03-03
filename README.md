@@ -3,14 +3,31 @@
 <!--
 **Guy-deMessimy/Guy-deMessimy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Guy de Messimy : french web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> test https://camo.githubusercontent.com/9971b5a250b3a6e03b01778b149ba591a665ee8c0ef8dea99d4d76a518c4e1b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c6174266c6f676f3d74797065736372697074266c6f676f436f6c6f723d464646464646
+About Me
+
+I worked 15 years as product manager and HR officer. In 2020 I have decided to start my retraining as a web developper.
+I took a course at WildcodeSchool during 5 months on JS, React and NodeJs technologies, before joining UTOCAT Lille 
+as an inter on React technologies.
+
+Technologies
+
+Languages : HTML5, CSS, JavaScript
+
+Frontend : React.js, 
+
+Backend : Node.js
+
+Database : MySQL
+
+Tools I use
+
+Docker VSCode Git Github Gitlab Google Office 365
+
+Linux Windows NPM Yarn
+
+Insomnia JSON Netlify Heroku
+
+Figma
+
