@@ -52,3 +52,6 @@ Figma
 </a>
 </div>
 
+
+[linkedin]: https://linkedin.com/in/guy-de-messimy
+[mail]: mailto:gdemessimy@gmail.com
