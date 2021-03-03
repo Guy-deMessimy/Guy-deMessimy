@@ -1,17 +1,10 @@
-Guy de Messimy : french web Developer
+## Guy de Messimy : french web Developer
 
 ## about me:
 
 I worked 15 years as product manager and HR officer. In 2020 I have decided to start my retraining as a web developper.
 I took a course at WildcodeSchool during 5 months on JS, React and NodeJs technologies, before joining UTOCAT Lille 
 as an inter on React technologies.  
-
-
-Gitlab  
-
-Insomnia 
-JSON 
-
 
 ## :email: Find me on:
 
@@ -44,7 +37,7 @@ JSON
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/netlify/netlify.png" alt="Netlify" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Npm" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gitlab/gitlab.png" alt="Gitlab" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/insomnia/insomnia.png" alt="Insomnia" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kong/kong.png" alt="Insomnia" height="40" style="vertical-align:top; margin:4px">
 
 </p>
 
