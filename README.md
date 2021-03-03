@@ -41,7 +41,7 @@ as an inter on React technologies.
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="40" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="40" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/insmonia/insomnia.png" alt="Insomnia" height="40" style="vertical-align:top; margin:4px">
+ <img src="ttps://img.shields.io/badge/Insomnia-330F63?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
 
 </p>
