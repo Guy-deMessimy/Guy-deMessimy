@@ -21,8 +21,20 @@ Figma
 [![Github](https://img.shields.io/github/followers/Guy-deMessimy?label=Follow&style=social)](https://github.com/Guy-deMessimy)
 
 
+## :email: Find me on:
 
-## ✉️ Find me on:
+<!--
+[<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+-->
+
+<p align="center">
+ <a href="https://linkedin.com/in/guy-de-messimy" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Js" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:gdemessimy@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Js" height="40" style="vertical-align:top; margin:4px"></a> 
+</p>
+
+<br />
 
 
 ## 🧰 Languages and Tools:
