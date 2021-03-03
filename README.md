@@ -1,4 +1,4 @@
-###Guy de Messimy : french web Developer
+Guy de Messimy : french web Developer
 
 About Me
 
