@@ -22,7 +22,7 @@ Figma
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Guy-deMessimy.Guy-deMessimy)
 [![Github](https://img.shields.io/github/followers/Guy-deMessimy?label=Follow&style=social)](https://github.com/Guy-deMessimy)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guy-deMessimy&show_icons=true&theme=tokyonight)
 
 ## 🧰 Languages and Tools:
 <p align="center">
