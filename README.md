@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Guy-deMessimy/Guy-deMessimy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
-
-Guy de Messimy : french web Developer
+###Guy de Messimy : french web Developer
 
 About Me
 
